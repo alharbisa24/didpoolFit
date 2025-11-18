@@ -1,16 +1,27 @@
-# ui_tutorial
 
-A new Flutter project.
+## Screenshots
 
-## Getting Started
+### OnBoarding 1
+![OnBoarding1](https://raw.githubusercontent.com/alharbisa24/didpoolFit/main/images/onboarding.png)
 
-This project is a starting point for a Flutter application.
+### OnBoarding 2
+![OnBoarding2](https://raw.githubusercontent.com/alharbisa24/didpoolFit/main/images/onboarding1.png)
 
-A few resources to get you started if this is your first Flutter project:
+### OnBoarding 3
+![OnBoarding3](https://raw.githubusercontent.com/alharbisa24/didpoolFit/main/images/onboarding2.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Select goal
+![Profile](https://raw.githubusercontent.com/alharbisa24/didpoolFit/main/images/goal.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Login
+![login](https://raw.githubusercontent.com/alharbisa24/didpoolFit/main/images/login.png)
+
+### Register
+![Register](https://raw.githubusercontent.com/alharbisa24/didpoolFit/main/images/register.png)
+
+### Home page
+![Home](https://raw.githubusercontent.com/alharbisa24/didpoolFit/main/images/home.png)
+
+### Profile
+![Profile](https://raw.githubusercontent.com/alharbisa24/didpoolFit/main/images/profile.png)
+
